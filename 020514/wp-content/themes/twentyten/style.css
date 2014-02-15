@@ -72,10 +72,11 @@ DESCRIPTION: Two-column fixed layout with one sidebar right of content
 	float: left;
 	margin: 0 -240px 0 0;
 	width: 100%;
+	background:red;
 }
 #content {
 	margin: 0 280px 0 20px;
-	background:red;
+	background:orange;
 }
 #primary,
 #secondary {
@@ -99,6 +100,7 @@ DESCRIPTION: One centered column with no sidebar
 .one-column #content {
 	margin: 0 auto;
 	width: 640px;
+	background:yellow;
 }
 
 /*
