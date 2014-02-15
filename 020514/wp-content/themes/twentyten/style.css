@@ -90,6 +90,7 @@ DESCRIPTION: Two-column fixed layout with one sidebar right of content
 #footer {
 	clear: both;
 	width: 100%;
+	background:yellow;
 }
 
 /*
@@ -100,7 +101,7 @@ DESCRIPTION: One centered column with no sidebar
 .one-column #content {
 	margin: 0 auto;
 	width: 640px;
-	background:yellow;
+	/* background:yellow; */
 }
 
 /*
