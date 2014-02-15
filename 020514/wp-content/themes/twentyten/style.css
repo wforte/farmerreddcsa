@@ -1361,11 +1361,12 @@ code {
 		float: none;
 		width: auto;
 						
-						display:none;
+						
 						
 	}
 	#colophon {
 		width: auto;
+		display:none;
 	}
 	img#wpstats {
 		display: none;
