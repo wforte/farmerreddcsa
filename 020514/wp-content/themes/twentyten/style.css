@@ -1386,3 +1386,14 @@ code {
 		border: none;
 	}
 }
+
+/*   wforte comment-outs below  */
+#colophon, #post-90, #comments {
+display: none !important;
+}
+
+
+
+
+
+
