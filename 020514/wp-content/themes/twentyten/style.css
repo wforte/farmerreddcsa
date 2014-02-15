@@ -90,7 +90,7 @@ DESCRIPTION: Two-column fixed layout with one sidebar right of content
 #footer {
 	clear: both;
 	width: 100%;
-	background:yellow;
+	background:violet;
 }
 
 /*
@@ -1360,6 +1360,9 @@ code {
 	#site-generator {
 		float: none;
 		width: auto;
+						
+						display:none;
+						
 	}
 	#colophon {
 		width: auto;
