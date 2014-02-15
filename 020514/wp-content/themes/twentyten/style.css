@@ -1367,6 +1367,7 @@ code {
 	#colophon {
 		width: auto;
 		display:none;
+		background: green;
 	}
 	img#wpstats {
 		display: none;
